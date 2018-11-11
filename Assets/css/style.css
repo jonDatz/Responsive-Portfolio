@@ -181,15 +181,14 @@ input[type=submit]:hover {
 
     }
     ul {
-
-
+        width: 100%;
     }
     li {
 
 
     }
     .aboutme {
-
+        width: 95%;
     }
     h1 {
 
@@ -214,7 +213,7 @@ input[type=submit]:hover {
 
     }
     .aboutme {
-        width: 60%;
+        width: 95%;
         margin-top: 140px;
     }
     h1 {
@@ -226,7 +225,7 @@ input[type=submit]:hover {
 
 
     #mypic {
-        width: 90%;
+        width: 45%;
         height: auto;
         box-sizing: border-box;
     }
