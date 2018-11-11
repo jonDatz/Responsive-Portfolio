@@ -219,10 +219,11 @@ input[type=submit]:hover {
     h1 {
         position: static;
     }
-
-
-
-
+    .cards {
+        position: relative;
+        padding: 0px 200px 0px 0px;
+        box-sizing: border-box;
+    }
 
     #mypic {
         width: 45%;
